@@ -3,7 +3,7 @@
 <div align="center">
 
 # Cryptonly for FOSSBilling
-
+[Website](https://cryptonly.net) · [Documentation](https://cryptonly.net/docs/integration/cms-plugins/fossbilling) · [Contact](https://cryptonly.net/contact)
 </div>
 
 Accept cryptocurrency payments in FOSSBilling with Cryptonly. Customers pay on a hosted checkout page. FOSSBilling marks the invoice paid only after Cryptonly confirms the transfer with a signed webhook.
