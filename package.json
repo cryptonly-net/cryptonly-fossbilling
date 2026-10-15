@@ -1,0 +1,10 @@
+{
+  "name": "cryptonly-fossbilling",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cryptonly payment adapter for FOSSBilling",
+  "scripts": {
+    "test": "php scripts/smoke-contract.php",
+    "build:release": "bash scripts/build-release.sh"
+  }
+}
