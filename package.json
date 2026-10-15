@@ -2,6 +2,7 @@
   "name": "cryptonly-fossbilling",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "description": "Cryptonly payment adapter for FOSSBilling",
   "scripts": {
     "test": "php scripts/smoke-contract.php",

@@ -59,3 +59,7 @@ bash scripts/build-release.sh
 ```
 
 The release zip is written to `dist/`. That directory is not part of the source tree.
+
+## License
+
+[MIT](LICENSE)
